@@ -1,0 +1,5 @@
+{
+  "name": "Trading Journal",
+  "description": "A comprehensive PnL tracker and journal for crypto futures trading. Import your trades, visualize your performance with interactive charts, and leverage AI-powered analysis to gain insights into your trading habits.",
+  "requestFramePermissions": []
+}
